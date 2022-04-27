@@ -1,7 +1,7 @@
 # Softsensor_MVP_with_EDDI
 This repository provides code example for for using [EDDI in multivariate time-series missing value imputation (MVP)](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/fill-the-gap-eddi-for-multivariate-time-series-missing-value/ba-p/3289782) in use cases like Soft Sensor Modeling.
 
-Please refer to the [blog post](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/fill-the-gap-eddi-for-multivariate-time-series-missing-value/ba-p/3289782) for more informaiton and concrete explanation of the use case and best practices.
+Please refer to the corresponding blog post, [Fill the Gap: Eddi for Multivariate Timeseries Missing Value Imputation](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/fill-the-gap-eddi-for-multivariate-time-series-missing-value/ba-p/3289782), for more informaiton and concrete explanation of the use case and best practices.
 
 
 ## Background on EDDI
@@ -18,6 +18,7 @@ This repository contains code samples for using EDDI API for Soft Sensor Modelin
 
 ### Related Blogs:
 For more information on the following topics, please refer to the corresponding blog post:
+
 [1] Best practices for EDDI in Multivariate Timeseries: [Fill the Gap: Eddi for Multivariate Timeseries Missing Value Imputation](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/fill-the-gap-eddi-for-multivariate-time-series-missing-value/ba-p/3289782)
 
 [2] Soft sensor modeling: [A Solution Template for Soft Sensor Modeling on Azure](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/a-solution-template-for-soft-sensor-modeling-on-azure/ba-p/3265959)
