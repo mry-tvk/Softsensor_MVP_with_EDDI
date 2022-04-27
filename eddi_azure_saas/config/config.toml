@@ -1,0 +1,6 @@
+title = "EDDI for Soft-Sensor Modeling -- Multivariate Timeseries"
+[eddi]
+subscription_key = "<your_eddi_subscription_key>"
+
+[blob]
+container_sas_link = "<sas_link_to_container>"
