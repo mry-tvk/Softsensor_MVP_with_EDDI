@@ -33,4 +33,4 @@ For more information on the following topics, please refer to the corresponding 
 ### Related Paper:
 Please refer to the original paper for more technical explanation on EDDI model. Also, if you are using EDDI model through this code base, please consider citing the following paper:
 
-[6], (PVAE and information acquisition) Chao Ma, Sebastian Tschiatschek, Konstantina Palla, Jose Miguel Hernandez-Lobato, Sebastian Nowozin, and Cheng Zhang. "EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE." In International Conference on Machine Learning, pp. 4234-4243. PMLR, 2019.
+[6] (PVAE and information acquisition) Chao Ma, Sebastian Tschiatschek, Konstantina Palla, Jose Miguel Hernandez-Lobato, Sebastian Nowozin, and Cheng Zhang. "EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE." In International Conference on Machine Learning, pp. 4234-4243. PMLR, 2019.
