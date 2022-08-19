@@ -1,0 +1,6 @@
+{
+    "use_predefined_dataset": true,
+    "test_fraction": 0.01,
+    "val_fraction": 0.0,
+    "random_seed": [42]
+}
